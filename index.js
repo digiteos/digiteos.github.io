@@ -33,7 +33,6 @@ for(var i=0; i<data.data.length; i++){
 console.log('Maximum Salary Found:',maxSalary);
 console.log('Maximum Salary Index:',indexOfMax);
 
-
 }
 
 fetchAsync()
